@@ -1,0 +1,14 @@
+.idea/
+*.iml
+out/
+target/
+dist/
+project/
+*.log
+*.tmproj
+*.ivyjars
+sbt-launch.jar
+.ensime
+.ensime_lucene
+.history
+
